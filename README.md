@@ -9,6 +9,7 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/[python].svg" />
 
 
+![python](https://github.com/user-attachments/assets/cba75da1-cdb2-41d7-80a5-7c26416ed6bc)
 
 - 🔭 I’m currently working on a few projects listed here:
 	ExpenseTracker
