@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a few projects listed here:
 	ExpenseTracker
-    bbstats
+    	bbstats
 
 - 🌱 I’m currently learning Data Science skills at Bloom Institute of Technology.
 
