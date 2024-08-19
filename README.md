@@ -1,4 +1,4 @@
-# Hey, didn't exect you here.
+# Hey, didn't exect you here. 😁
 
 ### Technologies/Tools
 <p align="center">
