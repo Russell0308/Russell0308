@@ -3,7 +3,7 @@
 ### Technologies/Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,neovim,apple,discord,django,docker,flask,obsidian,postgres,py,sqlite,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,flask,django,postgres,sqlite,tensorflow,git,github,apple,neovim,obsidian,discord,docker" />
   </a>
 </p>
 
