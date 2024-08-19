@@ -3,6 +3,9 @@
 ### Technologies/Tools
 <img height="32" width="32" src="https://github.com/user-attachments/assets/4ee42d04-f721-45b9-9265-076bc4c46231" />
 <img height="32" width="32" src="https://github.com/user-attachments/assets/56326796-9930-48c4-b42a-ccebb0637875" />
+<img height="32" width="32" src="https://github.com/user-attachments/assets/7010152a-4e73-48e7-ad3a-7603b7a7795e" />
+<img height="32" width="32" src="https://github.com/user-attachments/assets/985d3803-7ef5-4741-8052-8f4495a806f9" />
+<img height="32" width="32" src="https://github.com/user-attachments/assets/6e17b472-1461-4180-8655-dd8bda8fd395" />
 
 
 
