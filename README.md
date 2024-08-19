@@ -13,7 +13,7 @@
 </p>
 
 
-- 🔭 I’m currently working 
+- 🔭 I’m currently working on a ExpenseTracker.
 
 - 🌱 I’m currently learning Data Science skills at Bloom Institute of Technology.
 
@@ -23,7 +23,7 @@
 
 - 💬 Ask me about my favorite technologies to start a converstion.
 
-- 📫 How to reach me: salazarrussell03@gmail.com, [linkedin](https://www.linkedin.com/in/russell-salazar/), discord@russell0308
+- 📫 How to reach me: salazarrussell03@gmail.com, [linkedin](https://www.linkedin.com/in/russell-salazar/), discord@russell0308.
 
 - 😄 Pronouns: He/Him
 
