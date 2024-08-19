@@ -5,6 +5,7 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[macos].svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[python].svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[tensorflow].svg" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/[linux]" />
 
 
 
