@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Technologies/Tools
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[ICON SLUG].svg" />
 
 - 🔭 I’m currently working on a few projects listed here:
 	ExpenseTracker
@@ -13,7 +15,7 @@
 
 - 💬 Ask me about my favorite technologies to start a converstion.
 
-- 📫 How to reach me: salazarrussell03@gmail.com, linkedin, discord
+- 📫 How to reach me: salazarrussell03@gmail.com, [linkedin](https://www.linkedin.com/in/russell-salazar/), discord
 
 - 😄 Pronouns: He/Him
 
