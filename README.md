@@ -2,6 +2,11 @@
 
 ### Technologies/Tools
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[linux].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[macos].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[python].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[tensorflow].svg" />
+
+
 
 - 🔭 I’m currently working on a few projects listed here:
 	ExpenseTracker
