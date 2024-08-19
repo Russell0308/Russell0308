@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Technologies/Tools
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[#FCC624].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[linux].svg" />
 
 - 🔭 I’m currently working on a few projects listed here:
 	ExpenseTracker
